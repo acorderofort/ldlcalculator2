@@ -6,8 +6,8 @@ b0 = -0.0457
 b_ldl = -0.0131
 b_estat = 0.0433
 
-st.set_page_config(page_title="Calculadora de Riesgo LDL < 55")
-st.title("Calculadora de Riesgo: LDL < 55 mg/dL")
+st.set_page_config(page_title="LDLc (mg/dl) calculator after an ACS")
+st.title("")
 
 st.markdown("Ingrese los datos del paciente para estimar la probabilidad de lograr LDL < 55.")
 
